@@ -135,8 +135,7 @@ export default function FetchAPI() {
                           lng: row.point.coordinates[1]
                         }}
                     icon = {{
-                      url: '/trafficjam.png',
-                      scaledSize: new window.google.maps.Size(50,75)
+                      url: '/trafficjam.png'
                }}>
              </Marker>
             ))},
