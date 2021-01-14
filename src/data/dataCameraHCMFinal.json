@@ -1,0 +1,1554 @@
+[
+  {
+    "STT": 0,
+    "Quan": "Quận 2",
+    "Duong": "Nguyễn Thị Định - Đường D (Lữ 125)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=583f969161cfea0012cf68f7",
+    "Lng": 106.7814231,
+    "Lat": 10.76468237
+  },
+  {
+    "STT": 1,
+    "Quan": "Quận Bình Tân",
+    "Duong": "Võ Văn Kiệt - An Dương Vương 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481299",
+    "Lng": 106.6203511,
+    "Lat": 10.72656719
+  },
+  {
+    "STT": 2,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Phan Đăng Lưu - Đinh Tiên Hoàng 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587ee0ecb807da0011e33d50",
+    "Lng": 106.6964829,
+    "Lat": 10.80199705
+  },
+  {
+    "STT": 3,
+    "Quan": "Quận 5",
+    "Duong": "Võ Văn Kiệt - Huỳnh Mẫn Đạt 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48128f",
+    "Lng": 106.6771978,
+    "Lat": 10.75196028
+  },
+  {
+    "STT": 4,
+    "Quan": "Quận 2",
+    "Duong": "Đồng Văn Cống - Mỹ Thủy 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c4812a2",
+    "Lng": 106.7755866,
+    "Lat": 10.7701157
+  },
+  {
+    "STT": 5,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Nguyễn Văn Trỗi - Trần Huy Liệu",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58b571c817139d0010f35d5d",
+    "Lng": 106.6779488,
+    "Lat": 10.79447231
+  },
+  {
+    "STT": 6,
+    "Quan": "Quận 7",
+    "Duong": "Nguyễn Văn Linh - Cầu Ông Lớn 2 làn",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587447b4b807da0011e33ca0",
+    "Lng": 106.6902065,
+    "Lat": 10.72856477
+  },
+  {
+    "STT": 7,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Phổ Quang - Hoàng Minh Giám",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58df4d95dc195800111e04b9",
+    "Lng": 106.6728795,
+    "Lat": 10.80796192
+  },
+  {
+    "STT": 8,
+    "Quan": "Huyện Nhà Bè",
+    "Duong": "Cầu Long Kiểng (Long An)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=591c6552a6bfb5001194009a",
+    "Lng": 106.7023516,
+    "Lat": 10.68858954
+  },
+  {
+    "STT": 9,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Quốc lộ 1 - KCX Linh Trung 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e28a0f9fab7001111b0b3",
+    "Lng": 106.7687416,
+    "Lat": 10.87208194
+  },
+  {
+    "STT": 10,
+    "Quan": "Quận 1",
+    "Duong": "Nguyễn Huệ 36",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=584e8d1f61cfea0012cf699e",
+    "Lng": 106.7022926,
+    "Lat": 10.7752433
+  },
+  {
+    "STT": 11,
+    "Quan": "Quận 5",
+    "Duong": "Võ Văn Kiệt - Nguyễn Tri Phương 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481297",
+    "Lng": 106.6700792,
+    "Lat": 10.75036866
+  },
+  {
+    "STT": 12,
+    "Quan": "Quận 5",
+    "Duong": "Võ Văn Kiệt - Cầu Chữ Y 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5822adbbedeb6c0012a2d65f",
+    "Lng": 106.6836727,
+    "Lat": 10.75194447
+  },
+  {
+    "STT": 13,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Điện Biên Phủ - D1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587c79e9b807da0011e33d3d",
+    "Lng": 106.7178977,
+    "Lat": 10.79962583
+  },
+  {
+    "STT": 14,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Cộng Hòa - Út Tịch 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5874769eb807da0011e33cec",
+    "Lng": 106.6577572,
+    "Lat": 10.80010535
+  },
+  {
+    "STT": 15,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Hồng Hà - Hoàng Minh Giám",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df8108c062921100c143db",
+    "Lng": 106.6740221,
+    "Lat": 10.80903157
+  },
+  {
+    "STT": 16,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Cộng Hòa - Út Tịch 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587476e3b807da0011e33cee",
+    "Lng": 106.6578537,
+    "Lat": 10.80103803
+  },
+  {
+    "STT": 17,
+    "Quan": "Quận 5",
+    "Duong": "Võ Văn Kiệt - Hải Thượng Lãn Ông 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481293",
+    "Lng": 106.6632342,
+    "Lat": 10.74997866
+  },
+  {
+    "STT": 18,
+    "Quan": "Quận Gò Vấp",
+    "Duong": "Ngã sáu Nguyễn Thái Sơn 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df84abc062921100c143e5",
+    "Lng": 106.6792363,
+    "Lat": 10.81422173
+  },
+  {
+    "STT": 19,
+    "Quan": "Quận 1",
+    "Duong": "Võ Văn Kiệt - Nguyễn Văn Cừ 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48128b",
+    "Lng": 106.6869128,
+    "Lat": 10.75432134
+  },
+  {
+    "STT": 20,
+    "Quan": "Quận 3",
+    "Duong": "Nam Kỳ Khởi Nghĩa - Trần Quốc Toản",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58e49ff8d9d6200011e0b9d4",
+    "Lng": 106.6872239,
+    "Lat": 10.78631502
+  },
+  {
+    "STT": 21,
+    "Quan": "Quận 7",
+    "Duong": "Nguyễn Hữu Thọ - Nguyễn Thị Thập 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df833ac062921100c143e1",
+    "Lng": 106.701048,
+    "Lat": 10.7403708
+  },
+  {
+    "STT": 22,
+    "Quan": "Quận 2",
+    "Duong": "Đường hầm - Trạm Thu Phí",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56f8e796025e9511002786cf",
+    "Lng": 106.717844,
+    "Lat": 10.77151751
+  },
+  {
+    "STT": 23,
+    "Quan": "Quận 2",
+    "Duong": "Mai Chí Thọ - Đường dẫn cầu Thủ Thiêm 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5822b5ededeb6c0012a2d66a",
+    "Lng": 106.7225862,
+    "Lat": 10.77321441
+  },
+  {
+    "STT": 24,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Cầu vượt Sóng Thần 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58746488b807da0011e33cd7",
+    "Lng": 106.748507,
+    "Lat": 10.87430509
+  },
+  {
+    "STT": 25,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Quốc lộ 1 - ĐH Nông Lâm 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58746122b807da0011e33cc5",
+    "Lng": 106.7879409,
+    "Lat": 10.86722995
+  },
+  {
+    "STT": 26,
+    "Quan": "Quận 12",
+    "Duong": "Trường Chinh - Phan Văn Hớn (HM-Q12)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58e49783d9d6200011e0b9ce",
+    "Lng": 106.6247606,
+    "Lat": 10.82747335
+  },
+  {
+    "STT": 27,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Quốc lộ 1-Đinh Đức Thiện 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58d7bbf2c1e33c00112b3216",
+    "Lng": 106.5707946,
+    "Lat": 10.66562669
+  },
+  {
+    "STT": 28,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Quốc lộ 1 - Bình Đường",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58746295b807da0011e33ccb",
+    "Lng": 106.7589623,
+    "Lat": 10.87522173
+  },
+  {
+    "STT": 29,
+    "Quan": "Quận 7",
+    "Duong": "HTPhat-NVLinh 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=585b2baec3f96200127dc508",
+    "Lng": 106.7283314,
+    "Lat": 10.75254527
+  },
+  {
+    "STT": 30,
+    "Quan": "Huyện Nhà Bè",
+    "Duong": "Cầu Long Kiểng (HCM)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=591c662ba6bfb5001194009c",
+    "Lng": 106.7024589,
+    "Lat": 10.68913776
+  },
+  {
+    "STT": 31,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Phan Đăng Lưu - Phan Xích Long",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587ee2aeb807da0011e33d52",
+    "Lng": 106.6832328,
+    "Lat": 10.80203921
+  },
+  {
+    "STT": 32,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Cầu vượt Sóng Thần 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5874644cb807da0011e33cd5",
+    "Lng": 106.7509854,
+    "Lat": 10.87580649
+  },
+  {
+    "STT": 33,
+    "Quan": "Huyện Nhà Bè",
+    "Duong": "Cầu Cái Tâm (Long An)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=591c6b71a6bfb500119400a5",
+    "Lng": 106.5772319,
+    "Lat": 10.69450393
+  },
+  {
+    "STT": 34,
+    "Quan": "Quận 12",
+    "Duong": "Tỉnh lộ 15 - Đông Bắc",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589add0fb3bf7600110283ae",
+    "Lng": 106.6233391,
+    "Lat": 10.85561331
+  },
+  {
+    "STT": 35,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Ngã 4 Phú Nhuận 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58ad6961bd82540010390be5",
+    "Lng": 106.6803789,
+    "Lat": 10.7990462
+  },
+  {
+    "STT": 36,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Bùi Thanh Khiết - Chợ Đệm 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58d7b756c1e33c00112b320d",
+    "Lng": 106.5756601,
+    "Lat": 10.68606982
+  },
+  {
+    "STT": 37,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Yên Thế - Bạch Đằng",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58df4e22dc195800111e04bb",
+    "Lng": 106.6685933,
+    "Lat": 10.81416377
+  },
+  {
+    "STT": 38,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Quốc lộ 1 - Nguyễn Văn Linh",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58d7b3e8c1e33c00112b3207",
+    "Lng": 106.5953636,
+    "Lat": 10.69014985
+  },
+  {
+    "STT": 39,
+    "Quan": "Quận 2",
+    "Duong": "Cầu Sài Gòn - Trần Não",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589d0bceb3bf7600110283d6",
+    "Lng": 106.7295277,
+    "Lat": 10.79879326
+  },
+  {
+    "STT": 40,
+    "Quan": "Quận 2",
+    "Duong": "Mai Chí Thọ - Đồng Văn Cống 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58175ac4edeb6c0012a2d5bb",
+    "Lng": 106.7496067,
+    "Lat": 10.7878801
+  },
+  {
+    "STT": 41,
+    "Quan": "Quận 1",
+    "Duong": "Võ Văn Kiệt - Cầu Ông Lãnh 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481288",
+    "Lng": 106.6976523,
+    "Lat": 10.76379173
+  },
+  {
+    "STT": 42,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Đường Nguyễn Hữu Cảnh - Cầu Thủ Thiêm",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587470c2b807da0011e33ce4",
+    "Lng": 106.7150974,
+    "Lat": 10.78920276
+  },
+  {
+    "STT": 43,
+    "Quan": "Huyện Nhà Bè",
+    "Duong": "Cầu Rạch Dơi (HCM)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=591c6d3ba6bfb500119400ac",
+    "Lng": 106.6874385,
+    "Lat": 10.65620067
+  },
+  {
+    "STT": 44,
+    "Quan": "Quận Bình Tân",
+    "Duong": "Quốc lộ 1 - Lê Trọng Tấn",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=584e734a61cfea0012cf694f",
+    "Lng": 106.6013074,
+    "Lat": 10.81623454
+  },
+  {
+    "STT": 45,
+    "Quan": "Quận Gò Vấp",
+    "Duong": "Phạm Văn Đồng - Lê Quang Định 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587efb60b807da0011e33d5d",
+    "Lng": 106.6891927,
+    "Lat": 10.8192748
+  },
+  {
+    "STT": 46,
+    "Quan": "Quận 1",
+    "Duong": "Calmete - Nguyễn Công Trứ",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5701e22bc4350a1100e26f6c",
+    "Lng": 106.699664,
+    "Lat": 10.76708549
+  },
+  {
+    "STT": 47,
+    "Quan": "Quận 12",
+    "Duong": "Tỉnh lộ 15 - Hẻm 146",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589ad89eb3bf7600110283ac",
+    "Lng": 106.6336119,
+    "Lat": 10.84861677
+  },
+  {
+    "STT": 48,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Chinh - Phạm Văn Bạch 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5875cef0b807da0011e33d14",
+    "Lng": 106.6327965,
+    "Lat": 10.81346297
+  },
+  {
+    "STT": 49,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trần Quốc Hoàn - Hoàng Văn Thụ",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587c8183b807da0011e33d3f",
+    "Lng": 106.6622686,
+    "Lat": 10.80130677
+  },
+  {
+    "STT": 50,
+    "Quan": "Quận 2",
+    "Duong": "Đồng Văn Cống - Mỹ Thủy 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c4812a1",
+    "Lng": 106.7747069,
+    "Lat": 10.769926
+  },
+  {
+    "STT": 51,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Sơn - Phan Đình Giót",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56f11afc3ac17b11001c504e",
+    "Lng": 106.6642159,
+    "Lat": 10.80487411
+  },
+  {
+    "STT": 52,
+    "Quan": "Quận 7",
+    "Duong": "HTPhat-NVLinh 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=585b2b1ec3f96200127dc505",
+    "Lng": 106.7285943,
+    "Lat": 10.75288257
+  },
+  {
+    "STT": 53,
+    "Quan": "Quận Bình Tân",
+    "Duong": "Võ Văn Kiệt - An Dương Vương 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481298",
+    "Lng": 106.6199327,
+    "Lat": 10.72636163
+  },
+  {
+    "STT": 54,
+    "Quan": "Quận 1",
+    "Duong": "Nguyễn Huệ 02",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=584e76a961cfea0012cf6955",
+    "Lng": 106.705935,
+    "Lat": 10.77187059
+  },
+  {
+    "STT": 55,
+    "Quan": "Quận 3",
+    "Duong": "Nam Kỳ Khởi Nghĩa - Lý Chính Thắng",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58e49e3dd9d6200011e0b9d1",
+    "Lng": 106.6847885,
+    "Lat": 10.78860203
+  },
+  {
+    "STT": 56,
+    "Quan": "Quận 2",
+    "Duong": "Vành Đai Đông - Đường số 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587654d3b807da0011e33d36",
+    "Lng": 106.7675829,
+    "Lat": 10.762548
+  },
+  {
+    "STT": 57,
+    "Quan": "Quận 8",
+    "Duong": "Hưng Phú - Chánh Hưng 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58744f1fb807da0011e33cbd",
+    "Lng": 106.6689849,
+    "Lat": 10.74596795
+  },
+  {
+    "STT": 58,
+    "Quan": "Quận 12",
+    "Duong": "Cầu Phú Long (Q.12)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589b4644b3bf7600110283ce",
+    "Lng": 106.6931248,
+    "Lat": 10.89842143
+  },
+  {
+    "STT": 59,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Ung Văn Khiêm - Đường D2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e2995f9fab7001111b0b5",
+    "Lng": 106.7163956,
+    "Lat": 10.8075193
+  },
+  {
+    "STT": 60,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Xa lộ HN - Võ Văn Ngân",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df8198c062921100c143dd",
+    "Lng": 106.7737842,
+    "Lat": 10.84927533
+  },
+  {
+    "STT": 61,
+    "Quan": "Quận 2",
+    "Duong": "Mai Chí Thọ - Đồng Văn Cống 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481282",
+    "Lng": 106.7499447,
+    "Lat": 10.78768512
+  },
+  {
+    "STT": 62,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Thăng Long-Phan Thúc Duyện",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58df4c2bdc195800111e04b7",
+    "Lng": 106.6609383,
+    "Lat": 10.80445257
+  },
+  {
+    "STT": 63,
+    "Quan": "Quận 2",
+    "Duong": "Cát Lái cầu B",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48127e",
+    "Lng": 106.7540646,
+    "Lat": 10.80625467
+  },
+  {
+    "STT": 64,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Sơn - Ga Quốc Nội",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56f8d743025e9511002786c5",
+    "Lng": 106.6650045,
+    "Lat": 10.81238806
+  },
+  {
+    "STT": 65,
+    "Quan": "Quận 7",
+    "Duong": "HTPhat-LTLu2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=585b2980c3f96200127dc502",
+    "Lng": 106.7279935,
+    "Lat": 10.75512768
+  },
+  {
+    "STT": 66,
+    "Quan": "Quận 1",
+    "Duong": "Nguyễn Thị Minh Khai - Ngã sáu Cộng Hòa",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481284",
+    "Lng": 106.6824818,
+    "Lat": 10.76648998
+  },
+  {
+    "STT": 67,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Phan Đăng Lưu - Nơ Trang Long",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587ee7d7b807da0011e33d55",
+    "Lng": 106.6948521,
+    "Lat": 10.80318793
+  },
+  {
+    "STT": 68,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Sơn - Ga Quốc Tế",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df8544c062921100c143e6",
+    "Lng": 106.6653639,
+    "Lat": 10.81363159
+  },
+  {
+    "STT": 69,
+    "Quan": "Huyện Củ Chi",
+    "Duong": "QL 22 - Giáp Hải",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589b4379b3bf7600110283c9",
+    "Lng": 106.4816755,
+    "Lat": 10.97133803
+  },
+  {
+    "STT": 70,
+    "Quan": "Quận 3",
+    "Duong": "Nam Kỳ Khởi Nghĩa - Điện Biên Phủ 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58af8d68bd82540010390c2e",
+    "Lng": 106.6907001,
+    "Lat": 10.78333766
+  },
+  {
+    "STT": 71,
+    "Quan": "Quận 1",
+    "Duong": "Võ Văn Kiệt - Cầu Ông Lãnh 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481289",
+    "Lng": 106.6982692,
+    "Lat": 10.76387079
+  },
+  {
+    "STT": 72,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Ngã 4 Phú Nhuận 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58ad69c4bd82540010390be7",
+    "Lng": 106.6803682,
+    "Lat": 10.79930967
+  },
+  {
+    "STT": 73,
+    "Quan": "Quận 2",
+    "Duong": "Đường hầm - Đầu Quận 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56f8e7c9025e9511002786d1",
+    "Lng": 106.7140406,
+    "Lat": 10.77066378
+  },
+  {
+    "STT": 74,
+    "Quan": "Quận 2",
+    "Duong": "Mai Chí Thọ - Trần Não 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481283",
+    "Lng": 106.727618,
+    "Lat": 10.77579663
+  },
+  {
+    "STT": 75,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Phạm Văn Đồng - Phan Văn Trị 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58af9670bd82540010390c34",
+    "Lng": 106.6937149,
+    "Lat": 10.82122962
+  },
+  {
+    "STT": 76,
+    "Quan": "Quận 9",
+    "Duong": "Xa lộ HN - Tây Hòa 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df8274c062921100c143df",
+    "Lng": 106.7610329,
+    "Lat": 10.82649333
+  },
+  {
+    "STT": 77,
+    "Quan": "Huyện Nhà Bè",
+    "Duong": "Cầu Rạch Dơi (Hướng LA)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=591c6cdfa6bfb500119400aa",
+    "Lng": 106.6870308,
+    "Lat": 10.65580001
+  },
+  {
+    "STT": 78,
+    "Quan": "Quận 12",
+    "Duong": "QL 22 - Nguyễn Ảnh Thủ 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589b39d9b3bf7600110283c1",
+    "Lng": 106.60716,
+    "Lat": 10.8554658
+  },
+  {
+    "STT": 79,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Quốc lộ 1 - KCX Linh Trung 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587461c1b807da0011e33cc8",
+    "Lng": 106.7655015,
+    "Lat": 10.87355702
+  },
+  {
+    "STT": 80,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Xa lộ HN - Ngã tư Thủ Đức",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df81d8c062921100c143de",
+    "Lng": 106.7740095,
+    "Lat": 10.8491805
+  },
+  {
+    "STT": 81,
+    "Quan": "Quận 2",
+    "Duong": "Nguyễn Thị Định - Cổng A Cảng Cát Lái",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=583f926761cfea0012cf68f1",
+    "Lng": 106.7865783,
+    "Lat": 10.75997094
+  },
+  {
+    "STT": 82,
+    "Quan": "Quận Bình Tân",
+    "Duong": "Võ Văn Kiệt - Hồ Học Lãm 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48129b",
+    "Lng": 106.6114676,
+    "Lat": 10.72183935
+  },
+  {
+    "STT": 83,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Nguyễn Văn Trỗi - Nguyễn Đình Chính",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e2492f9fab7001111b0ab",
+    "Lng": 106.6753364,
+    "Lat": 10.79559471
+  },
+  {
+    "STT": 84,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Chinh - Tây Thạnh 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587479b1b807da0011e33cf9",
+    "Lng": 106.6283011,
+    "Lat": 10.81895339
+  },
+  {
+    "STT": 85,
+    "Quan": "Quận Bình Tân",
+    "Duong": "Võ Văn Kiệt - Hồ Học Lãm 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48129a",
+    "Lng": 106.6109043,
+    "Lat": 10.72223993
+  },
+  {
+    "STT": 86,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Nguyễn Kiệm - Hồ Văn Huê 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e20a0f9fab7001111b0a7",
+    "Lng": 106.6783619,
+    "Lat": 10.80629682
+  },
+  {
+    "STT": 87,
+    "Quan": "Quận 2",
+    "Duong": "Mai Chí Thọ - Lương Định Của 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48127f",
+    "Lng": 106.7511034,
+    "Lat": 10.79153191
+  },
+  {
+    "STT": 88,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Yên Thế - Hồng Hà",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58df5016dc195800111e04bd",
+    "Lng": 106.6685665,
+    "Lat": 10.81332597
+  },
+  {
+    "STT": 89,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Nguyễn Văn Trỗi - Huỳnh Văn Bánh",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587ef5dfb807da0011e33d59",
+    "Lng": 106.6798532,
+    "Lat": 10.79289145
+  },
+  {
+    "STT": 90,
+    "Quan": "Quận 5",
+    "Duong": "Võ Văn Kiệt - Nguyễn Tri Phương 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481291",
+    "Lng": 106.6687381,
+    "Lat": 10.75033704
+  },
+  {
+    "STT": 91,
+    "Quan": "Quận Bình Tân",
+    "Duong": "Quốc lộ 1 - KCN Vĩnh Lộc",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=584e71cb61cfea0012cf694b",
+    "Lng": 106.6032654,
+    "Lat": 10.82489684
+  },
+  {
+    "STT": 92,
+    "Quan": "Quận 2",
+    "Duong": "Cầu Sài Gòn (Q2-Bình Thạnh) 3",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58abbf72bd82540010390ba4",
+    "Lng": 106.7262769,
+    "Lat": 10.79873003
+  },
+  {
+    "STT": 93,
+    "Quan": "Quận 1",
+    "Duong": "Nguyễn Hữu Cảnh - Nguyễn Bỉnh Khiêm",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58af99abbd82540010390c39",
+    "Lng": 106.7076838,
+    "Lat": 10.78468142
+  },
+  {
+    "STT": 94,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Phạm Văn Đồng - Phan Văn Trị 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58d7c20ac1e33c00112b321c",
+    "Lng": 106.6948092,
+    "Lat": 10.82076594
+  },
+  {
+    "STT": 95,
+    "Quan": "Quận 2",
+    "Duong": "Cầu Sài Gòn (Q2-Bình Thạnh)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589d0b74b3bf7600110283d4",
+    "Lng": 106.7311585,
+    "Lat": 10.79971014
+  },
+  {
+    "STT": 96,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Chinh - Âu Cơ",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df807bc062921100c143da",
+    "Lng": 106.6364872,
+    "Lat": 10.80191801
+  },
+  {
+    "STT": 97,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Chinh - Phạm Văn Bạch 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e266ef9fab7001111b0b0",
+    "Lng": 106.6331506,
+    "Lat": 10.81408473
+  },
+  {
+    "STT": 98,
+    "Quan": "Quận 2",
+    "Duong": "Cầu Bà Dạt 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58d8ebd2dc195800111e0429",
+    "Lng": 106.7561781,
+    "Lat": 10.79362392
+  },
+  {
+    "STT": 99,
+    "Quan": "Huyện Nhà Bè",
+    "Duong": "Cầu Rạch Tôm (Long An)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=591c6467a6bfb50011940096",
+    "Lng": 106.6978884,
+    "Lat": 10.6722901
+  },
+  {
+    "STT": 100,
+    "Quan": "Quận 2",
+    "Duong": "Mai Chí Thọ - Đường dẫn cầu Thủ Thiêm 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481286",
+    "Lng": 106.7229187,
+    "Lat": 10.77338304
+  },
+  {
+    "STT": 101,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Thăng Long - Cộng Hòa",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58df50ffdc195800111e04c0",
+    "Lng": 106.6607559,
+    "Lat": 10.80094845
+  },
+  {
+    "STT": 102,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Cầu vượt nút giao thông Gò Dưa",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587464e2b807da0011e33cd9",
+    "Lng": 106.7331326,
+    "Lat": 10.86995888
+  },
+  {
+    "STT": 103,
+    "Quan": "Quận 2",
+    "Duong": "Đồng Văn Cống - Cầu Giồng Ông Tố 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5874461db807da0011e33c9c",
+    "Lng": 106.7525572,
+    "Lat": 10.78406487
+  },
+  {
+    "STT": 104,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Quốc lộ 1 - Cao tốc Trung Lương",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58afdbaebd82540010390c48",
+    "Lng": 106.5925312,
+    "Lat": 10.68941186
+  },
+  {
+    "STT": 105,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Hoàng Hoa Thám - Cộng Hòa",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58ad6214bd82540010390be2",
+    "Lng": 106.6473663,
+    "Lat": 10.80131204
+  },
+  {
+    "STT": 106,
+    "Quan": "Quận 3",
+    "Duong": "Nam Kỳ Khởi Nghĩa - Võ Thị Sáu",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58af8a0bbd82540010390c25",
+    "Lng": 106.6885436,
+    "Lat": 10.78453387
+  },
+  {
+    "STT": 107,
+    "Quan": "Quận 5",
+    "Duong": "Võ Văn Kiệt - Cầu Chữ Y 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48128e",
+    "Lng": 106.6841018,
+    "Lat": 10.75143325
+  },
+  {
+    "STT": 108,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Phạm Văn Đồng - Lê Quang Định 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587ef859b807da0011e33d5b",
+    "Lng": 106.6898686,
+    "Lat": 10.82005462
+  },
+  {
+    "STT": 109,
+    "Quan": "Quận 8",
+    "Duong": "Dương Bá Trạc - Tạ Quang Bửu 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58744e97b807da0011e33cb9",
+    "Lng": 106.6890424,
+    "Lat": 10.74698513
+  },
+  {
+    "STT": 110,
+    "Quan": "Quận 7",
+    "Duong": "Nguyễn Văn Linh - Cầu Ông Lớn 3 làn",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58744810b807da0011e33ca2",
+    "Lng": 106.6903138,
+    "Lat": 10.72812204
+  },
+  {
+    "STT": 111,
+    "Quan": "Quận 8",
+    "Duong": "Cầu Nhị Thiên Đường",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58c2717ed56e930010a39ac0",
+    "Lng": 106.6560625,
+    "Lat": 10.74180733
+  },
+  {
+    "STT": 112,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Quốc lộ 1-Nguyễn Hữu Trí 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58afcd9bbd82540010390c41",
+    "Lng": 106.5966994,
+    "Lat": 10.69655443
+  },
+  {
+    "STT": 113,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Võ Văn Kiệt - Tân Kiên 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48129c",
+    "Lng": 106.6009426,
+    "Lat": 10.71705346
+  },
+  {
+    "STT": 114,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Lê Văn Sỹ - Hoàng Văn Thụ",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587c8661b807da0011e33d43",
+    "Lng": 106.6605198,
+    "Lat": 10.79996834
+  },
+  {
+    "STT": 115,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Phan Thúc Duyện - Trần Quốc Hoàn",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df857fc062921100c143e7",
+    "Lng": 106.6634542,
+    "Lat": 10.80264519
+  },
+  {
+    "STT": 116,
+    "Quan": "Quận 1",
+    "Duong": "Tôn Đức Thắng - Lê Duẩn",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58af9a07bd82540010390c3b",
+    "Lng": 106.7032635,
+    "Lat": 10.7852927
+  },
+  {
+    "STT": 117,
+    "Quan": "Huyện Nhà Bè",
+    "Duong": "Cầu Rạch Đĩa (HCM)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=591c67dea6bfb500119400a1",
+    "Lng": 106.6979098,
+    "Lat": 10.7247488
+  },
+  {
+    "STT": 118,
+    "Quan": "Quận 8",
+    "Duong": "Dương Bá Trạc - Tạ Quang Bửu 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58744e3eb807da0011e33cb7",
+    "Lng": 106.6889191,
+    "Lat": 10.7444132
+  },
+  {
+    "STT": 119,
+    "Quan": "Quận 8",
+    "Duong": "Quốc lộ 50 - Tạ Quang Bửu 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58744dd9b807da0011e33cb5",
+    "Lng": 106.6561908,
+    "Lat": 10.73416215
+  },
+  {
+    "STT": 120,
+    "Quan": "Quận Gò Vấp",
+    "Duong": "Ngã sáu Nguyễn Thái Sơn 3",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df8416c062921100c143e4",
+    "Lng": 106.6785926,
+    "Lat": 10.81439561
+  },
+  {
+    "STT": 121,
+    "Quan": "Quận 5",
+    "Duong": "Võ Văn Kiệt - An Bình 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481290",
+    "Lng": 106.6732925,
+    "Lat": 10.74933569
+  },
+  {
+    "STT": 122,
+    "Quan": "Quận 3",
+    "Duong": "Nam Kỳ Khởi Nghĩa - Điện Biên Phủ 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58af8b69bd82540010390c28",
+    "Lng": 106.6909146,
+    "Lat": 10.78327442
+  },
+  {
+    "STT": 123,
+    "Quan": "Huyện Hóc Môn",
+    "Duong": "QL 22 - Nguyễn Văn Bứa 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589b3ceeb3bf7600110283c3",
+    "Lng": 106.5871722,
+    "Lat": 10.88373482
+  },
+  {
+    "STT": 124,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Phan Đăng Lưu - Nguyễn Văn Đậu",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58ad7291bd82540010390bf9",
+    "Lng": 106.6871971,
+    "Lat": 10.80384133
+  },
+  {
+    "STT": 125,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Hoàng Văn Thụ - Nguyễn Văn Trỗi 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587c8d97b807da0011e33d49",
+    "Lng": 106.6691887,
+    "Lat": 10.80010008
+  },
+  {
+    "STT": 126,
+    "Quan": "Quận 9",
+    "Duong": "Xa lộ HN - Tây Hòa 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df82d4c062921100c143e0",
+    "Lng": 106.7608666,
+    "Lat": 10.82649333
+  },
+  {
+    "STT": 127,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Quốc lộ 13 - Phạm Văn Đồng 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58affc6017139d0010f35cc8",
+    "Lng": 106.7140138,
+    "Lat": 10.82627203
+  },
+  {
+    "STT": 128,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Quốc lộ 1 - Lê Thị Hoa",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587463bab807da0011e33cd3",
+    "Lng": 106.7483997,
+    "Lat": 10.87477921
+  },
+  {
+    "STT": 129,
+    "Quan": "Quận 1",
+    "Duong": "Võ Văn Kiệt - Ký Con 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481287",
+    "Lng": 106.7004633,
+    "Lat": 10.76544125
+  },
+  {
+    "STT": 130,
+    "Quan": "Quận 1",
+    "Duong": "Nguyễn Huệ 21",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=584e7fd161cfea0012cf6983",
+    "Lng": 106.7038697,
+    "Lat": 10.77382044
+  },
+  {
+    "STT": 131,
+    "Quan": "Quận 9",
+    "Duong": "XLHN - Đường D13",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58b57a6c17139d0010f35d65",
+    "Lng": 106.8129873,
+    "Lat": 10.87901472
+  },
+  {
+    "STT": 132,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Hoàng Văn Thụ - Nguyễn Văn Trỗi 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56f11ac33ac17b11001c504c",
+    "Lng": 106.6684109,
+    "Lat": 10.7996311
+  },
+  {
+    "STT": 133,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Sơn - Cửu Long",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587475abb807da0011e33cea",
+    "Lng": 106.6647899,
+    "Lat": 10.80917384
+  },
+  {
+    "STT": 134,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Chinh - Bảy Hiền 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587478d8b807da0011e33cf3",
+    "Lng": 106.6535944,
+    "Lat": 10.79283876
+  },
+  {
+    "STT": 135,
+    "Quan": "Huyện Nhà Bè",
+    "Duong": "Cầu Rạch Tôm (HCM)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=591c64caa6bfb50011940098",
+    "Lng": 106.6979098,
+    "Lat": 10.67271183
+  },
+  {
+    "STT": 136,
+    "Quan": "Huyện Nhà Bè",
+    "Duong": "Cầu Rạch Đĩa (LA)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=591c6833a6bfb500119400a3",
+    "Lng": 106.6977382,
+    "Lat": 10.72398982
+  },
+  {
+    "STT": 137,
+    "Quan": "Quận Gò Vấp",
+    "Duong": "Ngã sáu Nguyễn Thái Sơn 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df83d8c062921100c143e3",
+    "Lng": 106.6783512,
+    "Lat": 10.81408473
+  },
+  {
+    "STT": 138,
+    "Quan": "Quận 9",
+    "Duong": "Xa lộ HN - Lê Văn Việt",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df8159c062921100c143dc",
+    "Lng": 106.7742831,
+    "Lat": 10.84907513
+  },
+  {
+    "STT": 139,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Nguyễn Văn Trỗi - Nguyễn Trọng Tuyển",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587ef2e4b807da0011e33d57",
+    "Lng": 106.6723108,
+    "Lat": 10.79768668
+  },
+  {
+    "STT": 140,
+    "Quan": "Huyện Hóc Môn",
+    "Duong": "QL 22 - Nguyễn Văn Bứa 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589b3f7db3bf7600110283c6",
+    "Lng": 106.5869254,
+    "Lat": 10.88410884
+  },
+  {
+    "STT": 141,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Quốc lộ 13 - Phạm Văn Đồng 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58b5510817139d0010f35d4e",
+    "Lng": 106.7143571,
+    "Lat": 10.82547115
+  },
+  {
+    "STT": 142,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Cộng Hòa - Đường C 18",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e1d4ef9fab7001111b0a2",
+    "Lng": 106.6511106,
+    "Lat": 10.80160712
+  },
+  {
+    "STT": 143,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Chinh - Tây Thạnh 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5874796db807da0011e33cf7",
+    "Lng": 106.6307902,
+    "Lat": 10.8199229
+  },
+  {
+    "STT": 144,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Cầu vượt Bình Phước 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58746536b807da0011e33cdc",
+    "Lng": 106.7235196,
+    "Lat": 10.86594978
+  },
+  {
+    "STT": 145,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Lê Văn Sỹ - Nguyễn Trọng Tuyển",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5875cb72b807da0011e33d0c",
+    "Lng": 106.6623598,
+    "Lat": 10.79873003
+  },
+  {
+    "STT": 146,
+    "Quan": "Quận 12",
+    "Duong": "QL 22 - Nguyễn Ảnh Thủ 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589b3705b3bf7600110283bd",
+    "Lng": 106.6073853,
+    "Lat": 10.85513388
+  },
+  {
+    "STT": 147,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Quốc lộ 1-Nguyễn Hữu Trí 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58afccadbd82540010390c3f",
+    "Lng": 106.5964633,
+    "Lat": 10.6966335
+  },
+  {
+    "STT": 148,
+    "Quan": "Quận 2",
+    "Duong": "Vành Đai Đông - Cầu Kỳ Hà 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58744693b807da0011e33c9e",
+    "Lng": 106.7592037,
+    "Lat": 10.75394715
+  },
+  {
+    "STT": 149,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Cầu vượt Bình Phước 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5874656eb807da0011e33cde",
+    "Lng": 106.7242116,
+    "Lat": 10.86474335
+  },
+  {
+    "STT": 150,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Lê Văn Sỹ - Phạm Văn Hai",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587c87e8b807da0011e33d45",
+    "Lng": 106.6646558,
+    "Lat": 10.796891
+  },
+  {
+    "STT": 151,
+    "Quan": "Quận 6",
+    "Duong": "Võ Văn Kiệt - Cao Văn Lầu 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481296",
+    "Lng": 106.6508424,
+    "Lat": 10.74424982
+  },
+  {
+    "STT": 152,
+    "Quan": "Quận 12",
+    "Duong": "Trường Chinh - Phan Văn Hớn (Q12-HM)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58d7c2e6c1e33c00112b321e",
+    "Lng": 106.6254258,
+    "Lat": 10.82698334
+  },
+  {
+    "STT": 153,
+    "Quan": "Quận 2",
+    "Duong": "Đồng Văn Cống - Phan Văn Đáng",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48129e",
+    "Lng": 106.7572618,
+    "Lat": 10.7785053
+  },
+  {
+    "STT": 154,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Quốc lộ 1 - Bồi Hoàn (Đường 14)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58746371b807da0011e33cd1",
+    "Lng": 106.7759514,
+    "Lat": 10.86967967
+  },
+  {
+    "STT": 155,
+    "Quan": "Quận 8",
+    "Duong": "Tùng Thiện Vương - Cầu Nhị Thiên Đường",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58b555ac17139d0010f35d59",
+    "Lng": 106.6560727,
+    "Lat": 10.74438158
+  },
+  {
+    "STT": 156,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Quốc lộ 1 - ĐH Nông Lâm 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587460aab807da0011e33cc2",
+    "Lng": 106.788429,
+    "Lat": 10.86719308
+  },
+  {
+    "STT": 157,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Quốc lộ 1 - Trần Đại Nghĩa",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48129d",
+    "Lng": 106.600669,
+    "Lat": 10.72239805
+  },
+  {
+    "STT": 158,
+    "Quan": "Quận 2",
+    "Duong": "Cát Lái cầu A",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48127d",
+    "Lng": 106.7527074,
+    "Lat": 10.80498477
+  },
+  {
+    "STT": 159,
+    "Quan": "Quận 6",
+    "Duong": "Võ Văn Kiệt - Phạm Phú Thứ 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481292",
+    "Lng": 106.6455209,
+    "Lat": 10.74136164
+  },
+  {
+    "STT": 160,
+    "Quan": "Quận 5",
+    "Duong": "Hải Thượng Lãn Ông - Cầu Chà Và",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48128d",
+    "Lng": 106.6600317,
+    "Lat": 10.75058474
+  },
+  {
+    "STT": 161,
+    "Quan": "Huyện Nhà Bè",
+    "Duong": "Cầu Cái Tâm (Hướng HCM)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=591c6bdba6bfb500119400a7",
+    "Lng": 106.5780956,
+    "Lat": 10.69483601
+  },
+  {
+    "STT": 162,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Chinh - Tân Kỳ Tân Quý",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e25e1f9fab7001111b0ae",
+    "Lng": 106.6359186,
+    "Lat": 10.80377282
+  },
+  {
+    "STT": 163,
+    "Quan": "Quận 7",
+    "Duong": "HTPhat-LTLu 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=585b284ac3f96200127dc500",
+    "Lng": 106.727795,
+    "Lat": 10.75453214
+  },
+  {
+    "STT": 164,
+    "Quan": "Quận 1",
+    "Duong": "Đường hầm - Đầu Quận 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481294",
+    "Lng": 106.7020404,
+    "Lat": 10.76753344
+  },
+  {
+    "STT": 165,
+    "Quan": "Quận 2",
+    "Duong": "Mai Chí Thọ - Lương Định Của 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481280",
+    "Lng": 106.7514467,
+    "Lat": 10.79262798
+  },
+  {
+    "STT": 166,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Phan Đăng Lưu - Đinh Tiên Hoàng 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587ed91db807da0011e33d4e",
+    "Lng": 106.6979635,
+    "Lat": 10.80248184
+  },
+  {
+    "STT": 167,
+    "Quan": "Quận 1",
+    "Duong": "Võ Văn Kiệt - Trần Đình Xu 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48128a",
+    "Lng": 106.6925454,
+    "Lat": 10.75877989
+  },
+  {
+    "STT": 168,
+    "Quan": "Quận 1",
+    "Duong": "Nam Kỳ Khởi Nghĩa -Nguyễn Thị Minh Khai 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58b5752e17139d0010f35d5f",
+    "Lng": 106.695056,
+    "Lat": 10.77937482
+  },
+  {
+    "STT": 169,
+    "Quan": "Quận 2",
+    "Duong": "Mai Chí Thọ - Trần Não 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58175c81edeb6c0012a2d5c2",
+    "Lng": 106.7273766,
+    "Lat": 10.77572285
+  },
+  {
+    "STT": 170,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Quốc lộ 1-Đinh Đức Thiện 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58aff2c6bd82540010390c55",
+    "Lng": 106.5697432,
+    "Lat": 10.665458
+  },
+  {
+    "STT": 171,
+    "Quan": "Quận 2",
+    "Duong": "Nguyễn Thị Định - Đường A",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c4812a0",
+    "Lng": 106.7835903,
+    "Lat": 10.76278516
+  },
+  {
+    "STT": 172,
+    "Quan": "Quận Bình Thạnh",
+    "Duong": "Cầu Sài Gòn (Q2-Bình Thạnh)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58abc0cbbd82540010390ba6",
+    "Lng": 106.7245173,
+    "Lat": 10.79805554
+  },
+  {
+    "STT": 173,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Quốc lộ 1-Bùi Thanh Khiết 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58afea5dbd82540010390c4d",
+    "Lng": 106.5804774,
+    "Lat": 10.67419315
+  },
+  {
+    "STT": 174,
+    "Quan": "Quận 12",
+    "Duong": "Cầu Phú Long (Bình Dương)",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=589b46b3b3bf7600110283d0",
+    "Lng": 106.6949701,
+    "Lat": 10.89863214
+  },
+  {
+    "STT": 175,
+    "Quan": "Quận 3",
+    "Duong": "Nam Kỳ Khởi Nghĩa -Nguyễn Thị Minh Khai 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58af8eb2bd82540010390c30",
+    "Lng": 106.6950828,
+    "Lat": 10.77975424
+  },
+  {
+    "STT": 176,
+    "Quan": "Quận Thủ Đức",
+    "Duong": "Quốc lộ 1 - Cầu vượt Linh Xuân",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58746314b807da0011e33cce",
+    "Lng": 106.7650402,
+    "Lat": 10.87333049
+  },
+  {
+    "STT": 177,
+    "Quan": "Quận 2",
+    "Duong": "Cầu Sài Gòn (Q2-Bình Thạnh) 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58abbee5bd82540010390ba2",
+    "Lng": 106.7307186,
+    "Lat": 10.79966799
+  },
+  {
+    "STT": 178,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Trường Chinh - Bảy Hiền 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58747923b807da0011e33cf5",
+    "Lng": 106.6531813,
+    "Lat": 10.79288618
+  },
+  {
+    "STT": 179,
+    "Quan": "Quận 8",
+    "Duong": "Tạ Quang Bửu - Phạm Hùng 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5875d4f8b807da0011e33d1a",
+    "Lng": 106.6709375,
+    "Lat": 10.73727176
+  },
+  {
+    "STT": 180,
+    "Quan": "Quận 2",
+    "Duong": "Nguyễn Thị Định - Lê Phụng Hiểu",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=583f976361cfea0012cf68f9",
+    "Lng": 106.784513,
+    "Lat": 10.76195776
+  },
+  {
+    "STT": 181,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Cộng Hòa - Trường Chinh",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e1f18f9fab7001111b0a5",
+    "Lng": 106.634953,
+    "Lat": 10.80706614
+  },
+  {
+    "STT": 182,
+    "Quan": "Quận 7",
+    "Duong": "Nguyễn Hữu Thọ - Nguyễn Thị Thập 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df8381c062921100c143e2",
+    "Lng": 106.7009461,
+    "Lat": 10.74049729
+  },
+  {
+    "STT": 183,
+    "Quan": "Quận 1",
+    "Duong": "Nguyễn Hữu Cảnh - Tôn Đức Thắng",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58af994abd82540010390c37",
+    "Lng": 106.7061925,
+    "Lat": 10.78264733
+  },
+  {
+    "STT": 184,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Phổ Quang - Huỳnh Lan Khanh",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58df4adedc195800111e04b4",
+    "Lng": 106.6665924,
+    "Lat": 10.80496896
+  },
+  {
+    "STT": 185,
+    "Quan": "Quận Bình Tân",
+    "Duong": "Quốc lộ 1 - Nguyễn Thị Tú",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=584e738361cfea0012cf6951",
+    "Lng": 106.6009104,
+    "Lat": 10.81612916
+  },
+  {
+    "STT": 186,
+    "Quan": "Quận 2",
+    "Duong": "Nguyễn Thị Định - Đường C",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=583f958161cfea0012cf68f5",
+    "Lng": 106.7798728,
+    "Lat": 10.76602095
+  },
+  {
+    "STT": 187,
+    "Quan": "Quận 9",
+    "Duong": "XLHN - Đường D400",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58b5528e17139d0010f35d52",
+    "Lng": 106.8077731,
+    "Lat": 10.87194497
+  },
+  {
+    "STT": 188,
+    "Quan": "Quận Tân Bình",
+    "Duong": "Phan Đình Giót-Phan Thúc Duyện",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56df85bdc062921100c143e8",
+    "Lng": 106.6656429,
+    "Lat": 10.801507
+  },
+  {
+    "STT": 189,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Bùi Thanh Khiết - Chợ Đệm 1",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58d7b5a7c1e33c00112b320a",
+    "Lng": 106.5762877,
+    "Lat": 10.6859644
+  },
+  {
+    "STT": 190,
+    "Quan": "Huyện Bình Chánh",
+    "Duong": "Quốc lộ 1-Bùi Thanh Khiết 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58aff01fbd82540010390c50",
+    "Lng": 106.5802628,
+    "Lat": 10.6737029
+  },
+  {
+    "STT": 191,
+    "Quan": "Quận 2",
+    "Duong": "Xa lộ HN - Thảo Điền",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587c782db807da0011e33d3b",
+    "Lng": 106.7382771,
+    "Lat": 10.80101168
+  },
+  {
+    "STT": 192,
+    "Quan": "Quận Phú Nhuận",
+    "Duong": "Hoàng Văn Thụ - Hồ Văn Huê",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587c8c20b807da0011e33d47",
+    "Lng": 106.674934,
+    "Lat": 10.79944667
+  },
+  {
+    "STT": 193,
+    "Quan": "Quận 8",
+    "Duong": "Hưng Phú - Chánh Hưng 2",
+    "Link": "http://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58744fb0b807da0011e33cc0",
+    "Lng": 106.6691297,
+    "Lat": 10.74638958
+  }
+]
